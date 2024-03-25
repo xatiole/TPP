@@ -1,0 +1,20 @@
+C:\Users\xatio\OneDrive\Документы\Учеба\Введение в программирование\Лабораторные ТПП\1 Лабораторная\bin\Debug\net6.0-windows\1 Лабораторная.exe
+C:\Users\xatio\OneDrive\Документы\Учеба\Введение в программирование\Лабораторные ТПП\1 Лабораторная\bin\Debug\net6.0-windows\1 Лабораторная.deps.json
+C:\Users\xatio\OneDrive\Документы\Учеба\Введение в программирование\Лабораторные ТПП\1 Лабораторная\bin\Debug\net6.0-windows\1 Лабораторная.runtimeconfig.json
+C:\Users\xatio\OneDrive\Документы\Учеба\Введение в программирование\Лабораторные ТПП\1 Лабораторная\bin\Debug\net6.0-windows\1 Лабораторная.dll
+C:\Users\xatio\OneDrive\Документы\Учеба\Введение в программирование\Лабораторные ТПП\1 Лабораторная\bin\Debug\net6.0-windows\1 Лабораторная.pdb
+C:\Users\xatio\OneDrive\Документы\Учеба\Введение в программирование\Лабораторные ТПП\1 Лабораторная\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\xatio\OneDrive\Документы\Учеба\Введение в программирование\Лабораторные ТПП\1 Лабораторная\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\xatio\OneDrive\Документы\Учеба\Введение в программирование\Лабораторные ТПП\1 Лабораторная\obj\Debug\net6.0-windows\1 Лабораторная_MarkupCompile.cache
+C:\Users\xatio\OneDrive\Документы\Учеба\Введение в программирование\Лабораторные ТПП\1 Лабораторная\obj\Debug\net6.0-windows\1 Лабораторная_MarkupCompile.lref
+C:\Users\xatio\OneDrive\Документы\Учеба\Введение в программирование\Лабораторные ТПП\1 Лабораторная\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\xatio\OneDrive\Документы\Учеба\Введение в программирование\Лабораторные ТПП\1 Лабораторная\obj\Debug\net6.0-windows\1 Лабораторная.g.resources
+C:\Users\xatio\OneDrive\Документы\Учеба\Введение в программирование\Лабораторные ТПП\1 Лабораторная\obj\Debug\net6.0-windows\1 Лабораторная.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xatio\OneDrive\Документы\Учеба\Введение в программирование\Лабораторные ТПП\1 Лабораторная\obj\Debug\net6.0-windows\1 Лабораторная.AssemblyInfoInputs.cache
+C:\Users\xatio\OneDrive\Документы\Учеба\Введение в программирование\Лабораторные ТПП\1 Лабораторная\obj\Debug\net6.0-windows\1 Лабораторная.AssemblyInfo.cs
+C:\Users\xatio\OneDrive\Документы\Учеба\Введение в программирование\Лабораторные ТПП\1 Лабораторная\obj\Debug\net6.0-windows\1 Лабораторная.csproj.CoreCompileInputs.cache
+C:\Users\xatio\OneDrive\Документы\Учеба\Введение в программирование\Лабораторные ТПП\1 Лабораторная\obj\Debug\net6.0-windows\1 Лабораторная.dll
+C:\Users\xatio\OneDrive\Документы\Учеба\Введение в программирование\Лабораторные ТПП\1 Лабораторная\obj\Debug\net6.0-windows\refint\1 Лабораторная.dll
+C:\Users\xatio\OneDrive\Документы\Учеба\Введение в программирование\Лабораторные ТПП\1 Лабораторная\obj\Debug\net6.0-windows\1 Лабораторная.pdb
+C:\Users\xatio\OneDrive\Документы\Учеба\Введение в программирование\Лабораторные ТПП\1 Лабораторная\obj\Debug\net6.0-windows\1 Лабораторная.genruntimeconfig.cache
+C:\Users\xatio\OneDrive\Документы\Учеба\Введение в программирование\Лабораторные ТПП\1 Лабораторная\obj\Debug\net6.0-windows\ref\1 Лабораторная.dll
